@@ -3,7 +3,9 @@ Final for CS225 | Blackjack(21) written in Java and a GUI written in Javafx
 
 This is a game of Blackjack that will run with a GUI from Javafx
 
-FileIO - The "highest score" (most money won) gets written to the HighScore.txt file
+FileIO - The "highest score" (most money won) gets written to the HighScore.txt file - before each bet, 
+player.getTotalMoney() is compared to the current value inside HighScore.txt, if it is larger, it overwrites it 
+with the new score.
 
 Inheritance - none
 
