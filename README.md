@@ -12,3 +12,5 @@ GUI - Utilizes Javafx
 Objects - Uses multiple object from different classes and setters and getters
 
 Includes a UML Diagram of the project
+
+Enumeration is used for the deck of cards suit and values
